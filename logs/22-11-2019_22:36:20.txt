@@ -1,0 +1,7 @@
+File was hit: count_example with rule: Count
+File was hit: free_apple_laptop with rule: HexString
+File was hit: HS 346 - Bibliography with rule: FileSize
+File was hit: Mail Stop Letter with rule: FileSize
+File was hit: not_a_virus with rule: TextString
+File was hit: set_strings with rule: SetStrings
+File was hit: set_strings_2 with rule: SetStrings
